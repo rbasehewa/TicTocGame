@@ -1,0 +1,16 @@
+h1{
+    background-color: red;
+};
+
+div{
+    width: 5px;
+    border: 0 5px red;
+}
+
+.square{
+    width: 30%;
+    background: blue;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+}
